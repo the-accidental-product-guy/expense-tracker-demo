@@ -9,6 +9,8 @@ The app intentionally has **2 bugs** and **1 missing feature** — your job is t
 ## Setup
 
 ```bash
+git clone https://github.com/the-accidental-product-guy/expense-tracker-demo
+cd expense-tracker-demo
 npm install
 npm run dev
 ```
